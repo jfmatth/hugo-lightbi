@@ -4,7 +4,7 @@ Subtitle: ""
 Date: 2023-01-01
 Lastmod : 
 Tags: ["Climbing Wall"]
-image : "/img/collections/collections1.jpg"
+image : "/img/hand.jpg"
 Description: "Custom woodie built right into the hillside. Upcycled lumber, adjustable climbing angle, 3D printed climbing holds"
 Draft: 
 ---
@@ -19,6 +19,7 @@ Recently I had been introduced to climbing by a friend and began to become more 
 #### Early Stages
 Once I convinced myself I wanted my own woodie, I decided there was no going back. I was going all in. The first issue presented itself– there was an absence of land which was not obnoxiously close to my house and flat to build it on. This issue turned out to be a blessing in disguise. I realized I could (with a lot of manual labor) use the extreme slope to my advantage: digging into the face to flatten a spot as well as allow for the top of the wall to be supported from the dirt. This would save greatly on the amount of wood needed, and thus drive the price down (one of my greatest constraints) A quick render in Fusion 360 and I could begin to see the project taking form. It looked like a crazy idea... I liked where this was heading.
 
+![Texthere](/img/hand.jpg "Title for this image is a hand")
 
 So with help from my friends and dog, we got to digging…
 
