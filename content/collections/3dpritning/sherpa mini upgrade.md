@@ -6,7 +6,7 @@ Lastmod :
 Tags: ["FDM 3D Printing"]
 image : "/img/collections/collections1.jpg"
 Description: "Sherpa Mini exturder system mounted on Ender 3 with custom adpater to natigate minimus fan shroud."
-Draft: 
+Draft: true
 ---
 
 Using a sherpa mini extruder system and custom mount to fit around the custom fan shrouds. 

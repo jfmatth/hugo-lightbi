@@ -6,5 +6,5 @@ Lastmod :
 Tags: ["MLSA 3D Printing"]
 image : "/img/collections/collections1.jpg"
 Description: "Strawberry themed hairclips and earrings modled in Blender and printed in resin"
-Draft: 
+Draft: true
 ---

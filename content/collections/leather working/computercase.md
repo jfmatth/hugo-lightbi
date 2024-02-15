@@ -6,7 +6,7 @@ Lastmod :
 Tags: ["Leather Working"]
 image : "/img/collections/collections1.jpg"
 Description: "Protective computer case with matte purple leather base and light tan accents."
-Draft: 
+Draft: true
 ---
 
 --- 

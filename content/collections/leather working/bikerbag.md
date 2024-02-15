@@ -6,7 +6,7 @@ Lastmod :
 Tags: ["Leather Working"]
 image : "/img/collections/collections1.jpg"
 Description: "Leather handlebar bag with black satin leather base and patina tan accents. "
-Draft: 
+Draft: true
 ---
 
 --- 

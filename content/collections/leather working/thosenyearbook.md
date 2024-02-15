@@ -6,7 +6,7 @@ Lastmod :
 Tags: ["Leather Working"]
 image : "/img/collections/collections1.jpg"
 Description: "Leather yearbook cover with detailed custom carvings"
-Draft: 
+Draft: true
 ---
 
 --- 

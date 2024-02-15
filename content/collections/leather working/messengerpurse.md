@@ -6,7 +6,7 @@ Lastmod :
 Tags: ["Leather Working"]
 image : "/img/collections/collections1.jpg"
 Description: "An ocean wave themed purse with a turquoise base with seafoam accents."
-Draft: 
+Draft: true
 ---
 
 --- 

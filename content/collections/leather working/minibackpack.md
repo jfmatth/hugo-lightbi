@@ -6,7 +6,7 @@ Lastmod :
 Tags: ["Leather Working"]
 image : "/img/collections/collections1.jpg"
 Description: " Mini backpack with mauve pink leather and suede and light tan accents."
-Draft: 
+Draft: true
 ---
 
 --- 

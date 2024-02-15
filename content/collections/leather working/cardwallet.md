@@ -6,7 +6,7 @@ Lastmod :
 Tags: ["Leather Working"]
 image : "/img/collections/collections1.jpg"
 Description: "Low profile card wallet designed to fit comfortably into a pocket."
-Draft: 
+Draft: true
 ---
 
 --- 

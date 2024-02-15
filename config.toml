@@ -20,7 +20,7 @@ summaryLength  = "30"
 [Params]
 selfHosted = true
 mainSections = ["collections","collection"]
-dateFormat = "Janurary 2 2023"
+dateFormat = "January 02 2006"
 comments = false
 readingTime = false
 wordCount = false

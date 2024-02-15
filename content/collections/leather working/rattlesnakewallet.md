@@ -6,7 +6,7 @@ Lastmod :
 Tags: ["Leather Working"]
 image : "/img/collections/collections1.jpg"
 Description: "Utility wallet with rattlesnake panels sewn onto light tan leather."
-Draft: 
+Draft: true
 ---
 
 --- 
