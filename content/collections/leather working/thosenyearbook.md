@@ -22,7 +22,7 @@ Every project starts with an idea and a few sketches. Decide on a color scheme a
 --- 
 
 ### Description ###
-Desgined as a collge faternity yearbook. Extensive custom carvings replicating the Greene and Greene architectural style of the Thorsen Mansion in San Francisco. finished with antique wallnut stain.
+Desgined as a college faternity yearbook. Extensive custom carvings replicating the Greene and Greene architectural style of the Thorsen Mansion in San Francisco. finished with antique wallnut stain.
 
 Some references include:
 * Carving of a lamp which is prevelant in the Thorsen House
