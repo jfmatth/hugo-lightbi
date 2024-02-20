@@ -1,2 +1,2 @@
-static: comingsoon/
+static: public/
 release: ./buildsite.sh
