@@ -9,8 +9,7 @@ Description: "Leather handlebar bag with black satin leather base and patina tan
 Draft: false
 ---
 
---- 
-### Why Leather Working?
+<!-- ### Why Leather Working?
 
 I was introduced to leather working years ago when I visited Tandy Leather with my dad. He had previously stumbled upon it and thought it was a cool store. I’ve been designing my own leather goods and crafting them by hand ever since. 
 
@@ -19,9 +18,11 @@ The majority of my projects are gifts for friends and family during the holidays
 
 Every project starts with an idea and a few sketches. Decide on a color scheme and design a mock model in cardstock for particularly complex designs. Then these cardstock templates can be cut used to cut out the leather peices and saved for future itterations or replicas of projects.
 
---- 
+---  -->
+  
+
 ### Description ###
-Custom desgined and crafted for my brother to store items while roadscycling.
+Custom desgined and crafted for my brother to store items while road cycling.  
 
 ---
 
@@ -32,4 +33,7 @@ Custom desgined and crafted for my brother to store items while roadscycling.
 
 ---
 
-![Texthere](/img/bikebagcollage.jpg "")
+![Texthere](/img/bikebagcollage.jpg "  ")
+
+---  
+{{% includemd "./content/include/whyleather.md" %}}  
