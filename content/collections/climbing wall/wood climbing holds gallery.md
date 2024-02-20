@@ -6,7 +6,7 @@ Lastmod :
 Tags: ["Climbing Holds"]
 image : "/img/hand.jpg"
 Description: "Inexpensive wooden climbing holds"
-Draft: False
+Draft: True
 ---
 
 test

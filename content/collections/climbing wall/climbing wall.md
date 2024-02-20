@@ -1,7 +1,7 @@
 ---
 Title: A Home Climbing Wall
 Subtitle: ""
-Date: 2023-01-01
+Date: 2023-08-01
 Lastmod : 
 Tags: ["Climbing Wall"]
 image : "/img/cover photo.jpeg"
@@ -113,10 +113,10 @@ The majority of holds are flat slate rocks bolted to the wall which function muc
 * A rock from Mt. Baldy CA. 
 
 
-Check out the other holds including wooden and 3D printed holds under the Climbing Holds Tag
+Check out the other holds including wooden and 3D printed holds under the climbing holds tag
 
 --- 
 
 ## Updates
 
-<!-- [Climbing Holds]({{< ref "/tags/Climbing-Holds" >}} "")  -->
+

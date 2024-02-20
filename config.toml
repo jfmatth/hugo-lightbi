@@ -20,7 +20,7 @@ summaryLength  = "30"
 [Params]
 selfHosted = true
 mainSections = ["collections","collection"]
-dateFormat = "January 02 2006"
+dateFormat = "January 2006"
 comments = false
 readingTime = false
 wordCount = false
@@ -46,16 +46,16 @@ previewCardImagePlacement = "bottom"
   filename = "sitemap.xml"
 
 [Author]
-  name = "Bino Kochumol Varghese"
-  website = "https://binovarghese.com/"
-  email = "sample@gmail.com"
-  facebook = "username"
-  instagram = "username"
-  youtube = "user/username" # or channel/channelname
-  twitter = "username"
-  threads = "username"
-  linkedin = "username"
-  github = "username"
+  name = "Daniel R Matthew"
+  website = "https://blog.drmatthew.org/"
+  email = "daniel@compunique.com"
+  #facebook = "username"
+  #instagram = "username"
+  #youtube = "user/username" # or channel/channelname
+  #twitter = "username"
+  #threads = "username"
+  #linkedin = "username"
+  #github = "username"
   #gitlab = "username"
   #bitbucket = "username"
   #reddit = "username"
@@ -85,7 +85,7 @@ previewCardImagePlacement = "bottom"
 
 [[menu.main]]
     name = "Tags"
-    url = "/tags/blog/"
+    url = "/tags"
     weight = 2
 
 

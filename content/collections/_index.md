@@ -5,5 +5,7 @@ title: "Recent Projects"
 subtitle : ""
 ---
 
-Browse project categories: [About]({{< ref "/about" >}} "About Us")
+## Browse project categories here: [Tags]({{< ref "/tags" >}} "About Us")
+
+---
 

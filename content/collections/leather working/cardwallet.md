@@ -1,12 +1,12 @@
 ---
 Title: Card Wallet
 Subtitle: ""
-Date: 2023-01-01
+Date: 2020-07-01
 Lastmod : 
 Tags: ["Leather Working"]
-image : "/img/collections/collections1.jpg"
+image : "/img/cardwallet.jpg"
 Description: "Low profile card wallet designed to fit comfortably into a pocket."
-Draft: true
+Draft: false
 ---
 
 --- 
@@ -18,5 +18,11 @@ I was introduced to leather working years ago when I visited Tandy Leather with 
 The majority of my projects are gifts for friends and family during the holidays. Each time I start a new project I try to design something which fits the person’s functional and aesthetic needs. Finally I implement a new skill or technique I’ve recently learned about. This process allows me to improve my craftsmanship with every project I complete, which is evident in my portfolio. 
 
 --- 
+### Description ###
+Custom designed wallet slim enough to be stored in any pant pocket.
+
+---
 
 ### New Techniques and Features
+* Experimenting with accent leather overlays
+* Zipper change pouch

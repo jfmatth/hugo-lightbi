@@ -1,20 +1,14 @@
 ---
 type : "tags"
 layout : "about"
-title: "About me"
+title: "About Daniel Matthew"
 ---
 
-I am Bino Kochumol Varghese.
+I am a maker at heart, and have been creating things ever since I was little. I love 3D printing and 3D design. My other major hobby is leather working, a discipline I love for the beauty of the raw materials and all the skills, and patience mandatory for strong craftsmanship. 
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. 
+Overall I am someone who loves to create, build, and engineer. 
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. 
+This website is a place for me to document my projects and pasisons.
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. 
 
-##### Social Media
-- [Instagram](https://www.instagram.com/binovarghese_)
-- [Twitter](https://twitter.com/binovarghese_)
-- [Linkedin](https://linkedin.com/in/binovarghese-)
- 
 

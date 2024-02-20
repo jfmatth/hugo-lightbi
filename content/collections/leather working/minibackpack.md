@@ -1,12 +1,12 @@
 ---
 Title: Mini Backpack
 Subtitle: ""
-Date: 2023-01-01
+Date: 2023-01-02
 Lastmod : 
 Tags: ["Leather Working"]
-image : "/img/collections/collections1.jpg"
+image : "/img/minibackpackcover.jpg"
 Description: " Mini backpack with mauve pink leather and suede and light tan accents."
-Draft: true
+Draft: false
 ---
 
 --- 
@@ -17,6 +17,25 @@ I was introduced to leather working years ago when I visited Tandy Leather with 
 **Objectives for Each Project:**
 The majority of my projects are gifts for friends and family during the holidays. Each time I start a new project I try to design something which fits the person’s functional and aesthetic needs. Finally I implement a new skill or technique I’ve recently learned about. This process allows me to improve my craftsmanship with every project I complete, which is evident in my portfolio. 
 
+Every project starts with an idea and a few sketches. Decide on a color scheme and design a mock model in cardstock for particularly complex designs. Then these cardstock templates can be cut used to cut out the leather peices and saved for future itterations or replicas of projects.
+
 --- 
 
+### Description ###
+Designed as gift. A cute and functional mini backpack from genuine leather.
+
+---
+
 ### New Techniques and Features
+* Piping on edges
+* adjustable leather shoulder straps
+* fabric lining
+* wet formed top pannel
+
+![Texthere](/img/wetformminibackpack.png "")
+3D printed wet form mold
+
+---
+
+![Texthere](/img/backpack.jpg "")
+Mock design from cardstock and finished bag
