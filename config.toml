@@ -14,7 +14,7 @@ pygmentsCodefencesGuessSyntax = true
 #googleAnalytics = "XXX"
 enableRobotsTXT = true
 enableGitInfo = false
-Paginate = 6
+pagination.pagerSize = 6
 summaryLength  = "30"
 
 [Params]
@@ -40,12 +40,12 @@ description="Your can add your website description here."
 previewCardImagePlacement = "bottom"
 
 
-[sitemap]
-  changefreq = "monthly"
-  priority = 0.5
-  filename = "sitemap.xml"
+#[sitemap]
+#  changefreq = "monthly"
+#  priority = 0.5
+#  filename = "sitemap.xml"
 
-[Author]
+[params.Author]
   name = "Daniel R Matthew"
   website = "https://blog.drmatthew.org/"
   email = "daniel@compunique.com"
