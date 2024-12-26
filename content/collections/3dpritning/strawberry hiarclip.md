@@ -6,7 +6,7 @@ Lastmod :
 Tags: ["MLSA 3D Printing"]
 image : "/img/strawberrycover.png"
 Description: "Strawberry themed hairclips and earrings modled in Blender and printed in resin"
-Draft: False
+Draft: True
 ---
 
 Strawberry earrings and makeup hairclips made as a gift. Modled and sculpted in Blender, and printing in resin.

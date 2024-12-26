@@ -1,7 +1,7 @@
 ---
 Title: Streets of Rodeo LED Lap Timer
 Subtitle: ""
-Date: 2022-06-01
+Date: 2024-06-01
 Lastmod : 
 Tags: ["FDM 3D Printing", "Electronics"]
 image : "/img/streetstimercover.jpg"
@@ -40,3 +40,5 @@ Since the proximity distance sensor we were using to detect the passing rider lo
 ![Texthere](/img/penguin.jpg "")
 
 With that the LED timer was complete, and we were ready to race!
+
+{{< youtube -but8OHt15Q >}}

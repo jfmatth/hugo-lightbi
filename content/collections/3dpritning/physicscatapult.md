@@ -1,7 +1,7 @@
 ---
-Title: Physics Catapult
+Title: Physics Class Catapult
 Subtitle: ""
-Date: 2023-09-01
+Date: 2024-03-01
 Lastmod : 
 Tags: ["FDM 3D Printing"]
 image : "/img/catapultcover.jpg"
@@ -26,7 +26,7 @@ The catapult project is a project assigned every year at my school for AP Physic
 
 ## Main Features
 * Wratchet trigger system allows for adjustable power, repeatability, and triggering from a distance.
- ![Texthere](/img/trigger.jpg "")
+ ![](/img/trigger.jpg "")
 Cam used to redirect force behind the catapult as well as helping create a smooth trigger pull.
 
 ---

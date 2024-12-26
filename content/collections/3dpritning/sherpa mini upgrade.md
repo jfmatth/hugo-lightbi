@@ -1,7 +1,7 @@
 ---
 Title: Sherpa Mini Extruder Upgrade for Ender 3
 Subtitle: ""
-Date: 2023-12-30
+Date: 2024-04-30
 Lastmod : 
 Tags: ["FDM 3D Printing"]
 image : "/img/sherpamini.png"
@@ -19,5 +19,5 @@ Using a sherpa mini extruder system and custom mount to fit around the custom fa
 
 
 --- 
-## "Ender 3-Up" Open Source Project Proposal Summer 2024 ##
+## "Ender 3-Up" Open Source Project 
 In the future I plan to combine the whole system as an open source project for the Ender 3. The goals of this project would be to make a lightweight, high cooling, direct drive extruder for the Ender 3 and similar systems. The plug and go design would allow users to easily upgrade their older printers to compete with the rapidly advancing print speeds and quality of modern FDM printers. 

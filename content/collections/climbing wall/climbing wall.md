@@ -1,7 +1,7 @@
 ---
 Title: A Home Climbing Wall
 Subtitle: ""
-Date: 2023-08-01
+Date: 2024-08-01
 Lastmod : 
 Tags: ["Climbing Wall"]
 image : "/img/cover photo.jpeg"
@@ -118,5 +118,5 @@ Check out the other holds including wooden and 3D printed holds under the climbi
 --- 
 
 ## Updates
-
+Check out [#Climbing Wall]({{< ref "/tags/climbing-wall/" >}} "")
 
