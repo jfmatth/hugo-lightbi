@@ -3,7 +3,7 @@ Title: Strawberry Hairclips and Earrings
 Subtitle: ""
 Date: 2023-06-01
 Lastmod : 
-Tags: ["MLSA 3D Printing"]
+Tags: ["3D-Printing"]
 image : "/img/strawberrycover.png"
 Description: "Strawberry themed hairclips and earrings modled in Blender and printed in resin"
 Draft: True

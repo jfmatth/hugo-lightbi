@@ -3,7 +3,7 @@ Title: Printing Astroneer Game Assets
 Subtitle: ""
 Date: 2023-02-01
 Lastmod : 
-Tags: ["MLSA 3D Printing"]
+Tags: ["3D-Printing"]
 image : "/img/astroneercover.png"
 Description: "Scale models of Astroneer game assets printed on MSLA resin printer"
 Draft: false

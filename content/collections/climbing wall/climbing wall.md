@@ -3,7 +3,7 @@ Title: A Home Climbing Wall
 Subtitle: ""
 Date: 2024-08-01
 Lastmod : 
-Tags: ["Climbing Wall"]
+Tags: ["Climbing-Wall"]
 image : "/img/cover photo.jpeg"
 Description: "Custom woodie built right into the hillside. Upcycled lumber, adjustable climbing angle, 3D printed climbing holds."
 Draft: false

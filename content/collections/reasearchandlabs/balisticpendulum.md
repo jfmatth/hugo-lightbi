@@ -3,7 +3,7 @@ Title: Physics Lab | Ballistic Pendulum
 Subtitle: ""
 Date: 2023-12-01
 Lastmod : 
-Tags: ["Research and Labs"]
+Tags: ["Research-and-Labs"]
 image : "/img/bp.jpg"
 Description: "Ballistic pendulum used to measure the speed of an airgun."
 Draft: false

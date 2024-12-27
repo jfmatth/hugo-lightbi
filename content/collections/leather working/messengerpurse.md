@@ -3,7 +3,7 @@ Title: Messenger Style Purse
 Subtitle: ""
 Date: 2024-01-01
 Lastmod : 
-Tags: ["Leather Working"]
+Tags: ["Leather-Working"]
 image : "/img/momsbag.jpg"
 Description: "An ocean wave themed purse with a turquoise base with seafoam accents."
 Draft: false

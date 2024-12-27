@@ -3,7 +3,7 @@ Title: Rattlesnake Wallet
 Subtitle: ""
 Date: 2022-07-01
 Lastmod : 
-Tags: ["Leather Working"]
+Tags: ["Leather-Working"]
 image : "/img/rattlesnakewallet.jpg"
 Description: "Utility wallet with rattlesnake panels sewn onto light tan leather."
 Draft: false

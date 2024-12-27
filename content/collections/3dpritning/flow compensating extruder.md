@@ -3,7 +3,7 @@ Title: Extruder Flow Compensation
 Subtitle: ""
 Date: 2024-02-09
 Lastmod : 
-Tags: ["FDM 3D Printing"]
+Tags: ["3D-Printing"]
 image : "/img/extrusion_main.jpg"
 Description: "Developing closed loop feedback meathod to eliminate extrusion inconsistencies"
 Draft: false

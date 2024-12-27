@@ -3,7 +3,7 @@ Title: Raised Pink Stiched Belt
 Subtitle: ""
 Date: 2023-01-05
 Lastmod : 
-Tags: ["Leather Working"]
+Tags: ["Leather-Working"]
 image : "/img/pinkstichbeltcover.jpg"
 Description: "Leather handlebar bag with black satin leather base and patina tan accents. "
 Draft: false

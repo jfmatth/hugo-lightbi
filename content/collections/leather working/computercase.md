@@ -3,7 +3,7 @@ Title: Computer Carrying Bag
 Subtitle: ""
 Date: 2023-03-01
 Lastmod : 
-Tags: ["Leather Working"]
+Tags: ["Leather-Working"]
 image : "/img/computercasecover.jpg"
 Description: "Protective computer case with matte purple leather base and light tan accents."
 Draft: false

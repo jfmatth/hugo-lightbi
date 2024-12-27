@@ -3,7 +3,7 @@ Title: Mini Backpack
 Subtitle: ""
 Date: 2023-01-02
 Lastmod : 
-Tags: ["Leather Working"]
+Tags: ["Leather-Working"]
 image : "/img/minibackpackcover.jpg"
 Description: " Mini backpack with mauve pink leather and suede and light tan accents."
 Draft: false

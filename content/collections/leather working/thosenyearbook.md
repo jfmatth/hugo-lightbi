@@ -3,7 +3,7 @@ Title: Thorsen Yearbook
 Subtitle: ""
 Date: 2022-04-01
 Lastmod : 
-Tags: ["Leather Working"]
+Tags: ["Leather-Working"]
 image : "/img/thorsenyearbookcover.jpg"
 Description: "Leather yearbook cover with detailed custom carvings"
 Draft: false

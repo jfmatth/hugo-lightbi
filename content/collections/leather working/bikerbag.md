@@ -3,7 +3,7 @@ Title: Road Cycling Handle Bar Bag
 Subtitle: ""
 Date: 2023-01-05
 Lastmod : 
-Tags: ["Leather Working"]
+Tags: ["Leather-Working"]
 image : "/img/bikerbagcover.jpg"
 Description: "Leather handlebar bag with black satin leather base and patina tan accents. "
 Draft: false

@@ -3,7 +3,7 @@ Title: Physics Class Catapult
 Subtitle: ""
 Date: 2024-03-01
 Lastmod : 
-Tags: ["FDM 3D Printing"]
+Tags: ["3D-Printing"]
 image : "/img/catapultcover.jpg"
 Description: "An overengineered solution to a physics catapult project."
 Draft: false

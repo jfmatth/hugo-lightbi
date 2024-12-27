@@ -3,7 +3,7 @@ Title: The 100 Printer Build
 Subtitle: ""
 Date: 2024-08-01
 Lastmod : 
-Tags: ["FDM 3D Printing"]
+Tags: ["3D-Printing"]
 image : "/img/100printer.jpg"
 Description: "Building a '100 3D Printer' desinged by Matt The 3D Printing Nerd"
 Draft: false

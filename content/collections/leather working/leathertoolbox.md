@@ -4,7 +4,7 @@ Title: Leather Tool Box
 Subtitle: ""
 Date: 2021-10-01
 Lastmod : 
-Tags: ["Leather Working"]
+Tags: ["Leather-Working"]
 image : "/img/leathertoolbox.jpg"
 Description: "Compact tool box for leatherworking supplies"
 Draft: false

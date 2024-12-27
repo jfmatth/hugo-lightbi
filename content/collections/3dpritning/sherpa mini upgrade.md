@@ -3,7 +3,7 @@ Title: Sherpa Mini Extruder Upgrade for Ender 3
 Subtitle: ""
 Date: 2024-04-30
 Lastmod : 
-Tags: ["FDM 3D Printing"]
+Tags: ["3D-Printing"]
 image : "/img/sherpamini.png"
 Description: "Sherpa Mini exturder system mounted on Ender 3 with custom adpater to natigate minimus fan shroud."
 Draft: False

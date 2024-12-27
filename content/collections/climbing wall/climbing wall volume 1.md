@@ -4,7 +4,7 @@ Title: Climbing Wall Triangular Volume
 Subtitle: ""
 Date: 2023-01-01
 Lastmod : 
-Tags: ["Climbing Wall"]
+Tags: ["Climbing-Wall"]
 image : "/img/volumecover.jpg"
 Description: "Elongated triangular pyramid climbing volume from plywood."
 Draft: False

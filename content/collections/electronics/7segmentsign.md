@@ -3,7 +3,7 @@ Title: Streets of Rodeo LED Lap Timer
 Subtitle: ""
 Date: 2024-06-01
 Lastmod : 
-Tags: ["FDM 3D Printing", "Electronics"]
+Tags: ["3D-Printing", "Electronics"]
 image : "/img/streetstimercover.jpg"
 Description: "A large LED sign for lap timing at home"
 Draft: false

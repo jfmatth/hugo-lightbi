@@ -3,7 +3,7 @@ Title: Braille Board Mechanical Display
 Subtitle: ""
 Date: 2024-02-10
 Lastmod : 
-Tags: ["FDM 3D Printing", "Electronics", "MLSA 3D Printing"]
+Tags: ["3D-Printing", "Electronics"]
 image : "/img/main.png"
 Description: "Designing an affordable alternative to piezoelectric mechanical braille displays."
 Draft: false
