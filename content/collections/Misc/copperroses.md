@@ -5,7 +5,7 @@ Date: 2024-02-01
 Lastmod : 
 Tags: ["Random"]
 image : "/img/copperrosecover.jpg"
-Description: "Beatiful copper roses made from scrap copper pipe"
+Description: "Beautiful copper roses made from scrap copper pipe"
 Draft: false
 ---
 
