@@ -23,17 +23,19 @@ I settled on tiny electromagnets to power each braille pin in the 6 pin segments
 
 
 
-![](/img/single_cell_up.png "") 
+![](/img/single_cell_updown.png "") 
 
-![](/img/single_cell_down.png "")
 
-One unplanned benefit of the cam design was that electromagnets only needed a small pulse to cause the cam to rotate. After that friction would keep the cam in place and the display would require no power to maintain its sequence of raised pins. 
+
+{{< box "One unplanned benefit of the cam design was that electromagnets only needed a small pulse to cause the cam to rotate. After that friction would keep the cam in place and the display would require no power to maintain its sequence of raised pins." >}}
 
 ***
 
 Next I needed to figure out how to power each of the 48 braille pins with an aurdino. I decided to treat them like LEDs in a matrix similar how those in the [Jumbo 7 segment display]({{< ref "/collections/electronics/7segmentsign/" >}} "About Us") I had built with my brother previously. After a bit of research I was attracted to shift registers which seemed a perfect IC for this project as they can control many pins with minimal inputs. Not having used shift registers before I soldered together a few LED arrays and learned the pin layout and control, which was made easy with the multitude of aurdino libraries avalible for shift registers.  
 
 ![](/img/shift_register.jpg "")
+
+---
 
 To understand the kind of power the tiny electromagnets would require I began testing electromagnets with various wire gauges, lengths, and number of turns on a simple test rig I printed. The copper wire was taken from old wall transformers I had laying around.
 
@@ -49,7 +51,7 @@ I began printing the cam and pins mechanism. They printed surprisingly well on u
 
 ![](/img/cam.jpg "")
 
-For scale, pins were used as the axels for the cam...
+{{< box "For scale, pins were used as the axels for the cam..." >}}
 
 ![](/img/cam2.jpg "")
 
@@ -64,5 +66,7 @@ One awesome feature of shift registers is their ability to be chained together a
 ***
 Currently I am continuing to optimize the cam mechanism, and finalizing the pcb layout to include through holes for soldering shift registers as well as transistors to serve as relays to deal with the higher current needed for the electromagnets.
 ***
-Some more renders...
+### Some more renders...
+
+{{< img_gallery  folder="img/braille_render/" >}}
 

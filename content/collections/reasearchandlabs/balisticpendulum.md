@@ -15,11 +15,12 @@ I was sitting in Physics class one day and we were learning about the basics of 
 ---
 
 ## Requirements
+ 
+ {{% boxbig %}}
  * A block to shoot into, which would trap the bullet inside. Then the block and bullet would be a combined system after the collsion making the problem possible by finding the change in height of the block and bullet. 
-
  * A way to measure the change in height of the block 
-
  * A scale to measure the mass of each bullet and the block after each trial.
+ {{% /boxbig %}}
 
 
 ---
@@ -28,11 +29,11 @@ I was sitting in Physics class one day and we were learning about the basics of 
 
  ![Texthere](/img/setup.jpg "")
 
+ {{% boxbig %}}
  * The airgun was mounted just far enough away so that the air released during the shot would not move the block. 
- 
  * The block was made from soft pine which would trap the bullet.
-
 * Lines on a cardstock allowed for the change in height to be measured in 20mm increments. 
+{{% /boxbig %}}
 
 ---
 

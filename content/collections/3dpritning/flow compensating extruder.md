@@ -24,8 +24,10 @@ With all these factors able to cause inconsistencies, I figured it might be bett
 Intial tests proved measuring current data would be harder than expected since stepper motors function like brushless motors and current in each coil segment switched direction too quickly for a standard hall effect current sensor wired to an aurdino to measure. I plan to experiment with other meathods which measure current draw by stepper motor controllers.  
 
 ![](/img/extrusion_main.jpg)
-Above is an extrusion force setup I built with a load cell and common dual gear BMG clone extruder. The filament is extruded into the nozzle and this downward force is measured by the load cell. This setup gives highly accurate and fast extrusion force data which can be used to calculate flow rates but it is too bulky and difficult to attach to an extruder on a real printer. 
+{{< box "Above is an extrusion force setup I built with a load cell and common dual gear BMG clone extruder. The filament is extruded into the nozzle and this downward force is measured by the load cell. This setup gives highly accurate and fast extrusion force data which can be used to calculate flow rates but it is too bulky and difficult to attach to an extruder on a real printer." >}}
 
+---
+## Live Test
 {{< youtube wM_SmDi_yHM >}}
 
-I noticed some odd spikes toward the end of a 10mm extrusion test definetly worth looking into. A way to measure this data while printing will allow for many printing issues to be studied more in-depth.
+{{< box "I noticed some odd spikes toward the end of a 10mm extrusion test definetly worth looking into. A way to measure this data while printing will allow for many printing issues to be studied more in-depth." >}}

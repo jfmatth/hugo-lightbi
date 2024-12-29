@@ -9,6 +9,7 @@ Description: "Leather handlebar bag with black satin leather base and patina tan
 Draft: false
 ---
  
+---
 
 ### Description ###
 Custom designed and crafted for my brother to store items while road cycling.  
@@ -18,11 +19,11 @@ Custom designed and crafted for my brother to store items while road cycling.
 ### New Techniques and Features
 * Wet formed sides from 3D printed form
 
-![Texthere](/img/wetform.jpg "")
+{{< img_gallery  folder="img/bike_bag_build/" >}}
 
 ---
 
-![Texthere](/img/bikebagcollage.jpg "  ")
+{{< img_gallery  folder="img/bike_bag/" >}}
 
 ---  
 {{% includemd "./content/include/whyleather.md" %}}  

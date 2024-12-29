@@ -14,17 +14,17 @@ Draft: false
 Working as an intern at [Turner Engineering Corp.](https://turner-engineering.com/) I was tasked with creating wiring schematics and box renders for a bus communication proposal. Although not a part of my job description as "test asset manager" I had demonstrated my skills for CAD on a previous project report, and they proved a valuable asset for the project. 
 
 ## Schematics
-![](/img/XR80schem.jpg "") 
-![](/img/XR60schem.jpg "") 
+---
+{{< img_gallery  folder="img/schem/" >}}
 ***
 
-## Renders
-![](/img/XR601.png "") 
-![](/img/XR602.png "") 
-![](/img/XR603.png "")  
+## Render
+
+{{< img_gallery  folder="img/xr60/" >}}
+
 ***
-![](/img/XR801.png "") 
-![](/img/XR802.png "") 
-![](/img/XR803.png "")
+
+{{< img_gallery  folder="img/xr80/" >}}  
+<br>
 
 

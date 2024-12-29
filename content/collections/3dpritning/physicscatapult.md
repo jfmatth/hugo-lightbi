@@ -25,16 +25,19 @@ The catapult project is a project assigned every year at my school for AP Physic
 ---
 
 ## Main Features
+<br>
+
 * Wratchet trigger system allows for adjustable power, repeatability, and triggering from a distance.
+
  ![](/img/trigger.jpg "")
-Cam used to redirect force behind the catapult as well as helping create a smooth trigger pull.
+{{< box "Cam used to redirect force behind the catapult as well as helping create a smooth trigger pull." >}}
 
 ---
 
 * Rubber tube pulleys cater to the nature of the rubber tube we bought which provided the best force when stretched over a large distance with moderate force. 
 
  ![Texthere](/img/pulleys.jpg "")
- Bearings embedded inside 3D printed pulleys by pausing the print halfway, dropping in a bearing and resuming.
+ {{< box "Bearings embedded inside 3D printed pulleys by pausing the print halfway, dropping in a bearing and resuming." >}}
 
  ---
 
@@ -53,4 +56,4 @@ The final solution was a smaller bean bag compartment with no chanfers on any of
 Overall this project consisted of alot of itterations of parts as seem below.
 
  ![Texthere](/img/parts.jpg "")
-
+{{< caption "Prototype prints" >}}

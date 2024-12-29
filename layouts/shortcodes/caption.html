@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Grey Box with Rounded Corners and Bold Text</title>
+    <style>
+        .caption-box {
+            background-color: rgba(203, 203, 203, 0.546);
+            /* border: 2px solid #707070; */
+            display: inline;
+            align-items: center; /* Vertically center the text */
+            justify-content: center; /* Horizontally center the text */
+            padding: 5px;
+            border-radius: 10px; /* Rounded corners */
+            height: 2px; /* Set a fixed height for proper centering */
+        }
+
+        .caption-box span {
+            color: rgba(28, 28, 28, 0.893); /* Text color black */
+            font-weight: bold; /* Bold text */
+            font-size: 15px;
+        }
+    </style>
+</head>
+<body> 
+    <center> 
+    <div class="caption-box">
+        <span>{{ .Get 0 }}</span>
+    </div>
+</center>
+</body>
+</html>
+<br>

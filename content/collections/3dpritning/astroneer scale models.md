@@ -17,20 +17,21 @@ MSLA resin printing is a type of resin printing which uses a UV LCD screen to ha
 Astroneer large rover miniature. First the game assets were taken from Astroneer and imported into Blender. There they could be cleaned up (impossible faces and intersecting geometry removed) and broken into pieces based on color to be more easily printed and assembled.
 
 ![Texthere](/img/rover1.png "") 
-Printed Model
+{{< caption "Printed Model" >}}
 
 ![Texthere](/img/roveringame.png "") 
-Rover in game
+{{< caption "Rover in game" >}}
 
-In Astroneer, tools, storage, and other items can be attached to any space on the rovers storage slots. To mimic this game mechanic, tiny magnets from amazon were glued into each hole.
+{{< box "In Astroneer, tools, storage, and other items can be attached to any space on the rovers storage slots. To mimic this game mechanic, tiny magnets from amazon were glued into each hole." >}}
 
 ![Texthere](/img/glue1.png "") 
 ![Texthere](/img/glued.png "") 
 
-For example the seat could be removed and drill and paver items snapped onto any space on the rover.
-
 ![Texthere](/img/swapped.png "") 
+{{< box "For example the seat could be removed and drill and paver items snapped onto any space on the rover." >}}
 
-Other Prints:
+---
+
+### Other replicas
 ![Texthere](/img/bustedrover.JPG "") 
-Scrap rover for my brothers succulant pot
+{{< caption "Scrap rover for my brothers succulant pot" >}}

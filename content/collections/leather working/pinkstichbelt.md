@@ -15,10 +15,12 @@ The belt which I used daily finally gave way to large tears, so I decided it was
 
 The belt is made from full grain veg tan on front and back for extra longevity. The belt buckle is salvaged from a 70s style belt from Goodwill.
 
-![Texthere](/img/pinkstichbeltclose.jpg "")
+
+
+
+
 
 ---
-
 ### New Techniques and Features
 I wanted to replicate the raised belt which I previously wore. Upon further research I learned that this is typically achived with an extra stip of leather, usually-split grain scraps or another cheap material. Using the split-grain is convinient as it is the byproduct of splitting the belt strip to a thinner thickness, but since I don't have a leather splitter to make this easy I decided to spend the extra dollar and use another full grain leather stip to make the raised strip. 
 
@@ -26,6 +28,9 @@ Intially I cut the inner strip with too much excess causing an awkward gap betwe
 
 Next time I would choose a thicker inner stip to make this look more pronounced. I also would like to cut the stip to be concentric with the rounded front of the belt as this is often the most noticed and elegant part of the belt.
 
-![Texthere](/img/wetfrm.jpg "")
----  
+---
+
+{{< img_gallery  folder="img/pink_belt/" >}}
+
+{{% includemd "./content/include/whyleather.md" %}}  
  
