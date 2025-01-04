@@ -3,7 +3,7 @@ Title: Copper Roses
 Subtitle: ""
 Date: 2024-02-01
 Lastmod : 
-Tags: ["Random"]
+Tags: ["Art"]
 image : "/img/finishedrose/copperrosecover.jpg"
 Description: "Beautiful copper roses made from scrap copper pipe"
 Draft: false

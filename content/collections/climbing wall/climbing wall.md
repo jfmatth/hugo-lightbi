@@ -9,9 +9,6 @@ Description: "Custom woodie built right into the hillside. Upcycled lumber, adju
 Draft: false
 ---
 
-
---- 
-
 #### Why Build a Climbing Wall?
 Recently I had been introduced to climbing by a friend and began to become more invested, while reading up on climbing during the excitement, I stumbled upon the term “woodie”. A woodie was simply a custom built climbing wall made for use right at your house. How cool! More climbing and a perfect excuse to build something massive and start another never ending project? I’m in!
 

@@ -3,7 +3,7 @@ Title: Plein Air Painting Setup
 Subtitle: ""
 Date: 2022-12-01
 Lastmod : 
-Tags: ["Random"]
+Tags: ["Art"]
 image : "/img/pleinair.jpg"
 Description: "Deployable painting setup for on the go use"
 Draft: false

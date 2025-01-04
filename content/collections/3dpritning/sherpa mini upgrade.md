@@ -1,7 +1,7 @@
 ---
 Title: Sherpa Mini Extruder Upgrade for Ender 3
 Subtitle: ""
-Date: 2024-04-30
+Date: 2023-04-30
 Lastmod : 
 Tags: ["3D-Printing"]
 image : "/img/sherpamini.png"

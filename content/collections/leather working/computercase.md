@@ -9,7 +9,6 @@ Description: "Protective computer case with matte purple leather base and light 
 Draft: false
 ---
 
----
 ### Description ###
 Designed to for my grandma to fasionably store her laptop while traveling.
 

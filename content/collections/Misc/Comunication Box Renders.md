@@ -11,7 +11,7 @@ Draft: false
 
 ## The Task
 
-Working as an intern at [Turner Engineering Corp.](https://turner-engineering.com/) I was tasked with creating wiring schematics and box renders for a bus communication proposal. Although not a part of my job description as "test asset manager" I had demonstrated my skills for CAD on a previous project report, and they proved a valuable asset for the project. 
+Working as an intern at [Turner Engineering Corp.](https://turner-engineering.com/) I was tasked with creating wiring schematics and box renders for a bus communication proposal. Performed in addtion to my projects as "test asset manager" I had demonstrated my skills for CAD on a [previous project report]({{< ref "/collections/3dpritning/storagebox/" >}} "Storage Box Project Renders"), and they proved a valuable asset for this project. 
 
 ## Schematics
 ---

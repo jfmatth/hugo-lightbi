@@ -8,7 +8,6 @@ image : "/img/main.png"
 Description: "Designing an affordable alternative to piezoelectric mechanical braille displays."
 Draft: false
 weight: 1
-
 ---
 
 ## Why Build?
