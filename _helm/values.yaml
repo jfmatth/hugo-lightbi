@@ -54,7 +54,7 @@ ingress:
         - path: /
           pathType: ImplementationSpecific
   tls:
-    - secretName: justneverlift-https
+    - secretName: blog-drmatthew-https
       hosts:
         - blog.3756home.org
 

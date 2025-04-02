@@ -1,4 +1,4 @@
-baseURL = "https://blog.drmatthew.org"
+#baseURL = "https://blog.drmatthew.org"
 DefaultContentLanguage = "en"
 languageCode = "en-us"
 title = "Daniel's Maker Blog"
