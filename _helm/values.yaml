@@ -6,7 +6,7 @@ replicaCount: 1
 
 image:
   repository: ghcr.io/jfmatth/hugo-lightbi
-  tag: v.2025.04.01
+  tag: v.2025.04.01b
   pullPolicy: Always
   
 imagePullSecrets: []
